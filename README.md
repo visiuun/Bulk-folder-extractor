@@ -29,7 +29,7 @@ No installation is required for this script. Ensure Python is installed on your 
 1. **Run the Script**:
    Run the script using Python:
    ```bash
-   python "bulk folder mover.py"
+   python "bulk folder extractor.py"
    ```
 
 2. **Select Folders**:
@@ -49,7 +49,7 @@ No installation is required for this script. Ensure Python is installed on your 
 
 1. Run the script:
    ```bash
-   python "bulk folder mover.py"
+   python "bulk folder extractor.py"
    ```
 2. Select an input folder like `/Users/username/Documents/input_files`.
 3. Select an output folder like `/Users/username/Documents/output_files`.
