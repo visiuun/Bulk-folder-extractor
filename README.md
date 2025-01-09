@@ -1,4 +1,4 @@
-# Folder Copy Tool
+# Bulk Folder Extractor
 
 This tool is a Python-based GUI utility designed to copy files from one folder to another. Users can choose whether to copy files sequentially (all at once) or concurrently (each file in a separate thread). The tool uses the `tkinter` library for folder selection and provides notifications upon completion.
 
